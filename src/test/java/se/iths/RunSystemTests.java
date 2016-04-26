@@ -7,7 +7,7 @@ import org.junit.runners.Suite.SuiteClasses;
 
 @RunWith(Categories.class)
 @IncludeCategory(SystemTest.class)
-@SuiteClasses( { GoogleSearch.class })
+@SuiteClasses( { GoogleTest.class })
 public class RunSystemTests {
 
 }

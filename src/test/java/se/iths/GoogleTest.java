@@ -9,7 +9,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import se.iths.Pages.GooglePage;
 
-public class GoogleSearch {
+public class GoogleTest {
 
 	private WebDriver driver;
 
